@@ -13,8 +13,6 @@ Also, select _Europe_ as a region.
 
 ##  MongoDB Atlas configuration 
 
-# M2 - Heroku Deployment (with Mongo Atlas)
-
 
 <br>
 
@@ -213,7 +211,7 @@ Also, select _Europe_ as a region.
 <br>
 
 
-### Add the Environment variables to heroku and update the monogoose connection in app.js  
+## Add the Environment variables to heroku and update the monogoose connection in app.js  
 
 You need to make sure that you have all the variables that are in your .env are also saved in Heroku, in the _Config Vars_ section of the _Settings_ tab.
 
